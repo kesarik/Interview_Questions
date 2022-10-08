@@ -649,7 +649,13 @@
         "id":"124",
         "question":"Tell me about microservers?",
         "answerLink":"https://aws.amazon.com/microservices/#:~:text=Microservices%20are%20an%20architectural%20and,small%2C%20self%2Dcontained%20teams."
-    }    
+    }  
+
+ {
+        "id" : "87",
+        "question" : "From your resume it seems you took a gap year. Would you like to tell us why that was?",
+        "answerLink" : "https://hbr.org/2021/11/10-common-job-interview-questions-and-how-to-answer-them"
+    },
     
     
     ]
